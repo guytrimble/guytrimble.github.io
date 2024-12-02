@@ -1,9 +1,12 @@
+# Hello World
 
-# Guy Trimble's Portfolio
+This is my home page! My name is Guy Trimble and I am a student at [Cal State Fullerton](http://www.fullerton.edu/) and my major is computer science.
 
-I am a computer science major at [Cal State Fullerton](http://www.fullerton.edu/) and I plan on graduating in 2028.
+## Computer Science Projects
 
-## Favorite CPSC 120 Labs
+My GitHub page is http://github.com/guytrimble.
+
+### CPSC 120
 
 * Lab 9, part 1
 
